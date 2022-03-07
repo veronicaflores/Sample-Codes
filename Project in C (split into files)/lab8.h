@@ -1,5 +1,7 @@
 /* 
  * Lab 8 -- Boba Shop Command w/ Recursive Functions
+ * This code creates a command line for a boba shop so that the employee can
+ * insert, fulfill, list, list by size, reverse the order list, print the order list lenght, or quit & save
  * COEN 11
  */
 
