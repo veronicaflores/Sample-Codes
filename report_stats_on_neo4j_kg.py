@@ -4,6 +4,9 @@
 
    Usage: report_stats_on_neo4j_kg.py
    changing the bolt, user, and password accordingly
+   
+   I created this code in an internship where we worked to create a biomedical knowledge graph called kg2.
+   This code takes the information from Neo4j, the graph database we used, and prints it out in an easy to read report.
 '''
 
 __author__ = 'Veronica Flores'
