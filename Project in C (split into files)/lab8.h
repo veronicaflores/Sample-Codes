@@ -1,6 +1,6 @@
 /* 
  * Lab 8 -- Boba Shop Command w/ Recursive Functions
- * COEN 11 - Winter 2022
+ * COEN 11
  */
 
 //inputs libraries
