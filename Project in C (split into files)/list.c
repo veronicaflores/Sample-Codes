@@ -81,14 +81,14 @@ void list(void)
 {
 	NODE *p;
 
-	if(head==NULL) //in case there are no orders to lost
+	if(head==NULL) //in case there are no orders to list
 	{
 	    printf("There are no orders currently!\n");
 	    return;
 	}
 
 	p = head;
-	//lisets names of customers and number of drinks
+	//lists names of customers and number of drinks
 	while(p!=NULL) 
 	{
 	    printf("%s, %d drinks\n", p->cname, p->osize);
